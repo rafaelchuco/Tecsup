@@ -66,8 +66,3 @@ Mi objetivo con este repositorio es:
 Si tienes preguntas, sugerencias o simplemente te gustaría conectar, no dudes en contactarme:  
 📧 **Correo:** [rafael.chuco1908@gmail.com](mailto:rafael.chuco1908@gmail.com)  
 🌐 **LinkedIn:** [Rafael Chuco Yantas](https://www.linkedin.com/in/rafael-chuco-yantas)
-
----
-
-## **🔖 Licencia**
-Este proyecto no tiene una licencia específica, por lo que todo el contenido está protegido por derechos de autor. Si deseas usarlo, por favor contáctame para obtener permiso.
