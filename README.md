@@ -5,7 +5,7 @@
 
 ### 🚀 *Aprendiendo de la carrera de Diseño y Desarrollo de Software en TECSUP*  
 ¡Bienvenido a mi repositorio! Aquí comparto todo lo que aprendo durante mi formación en la carrera de Diseño y Desarrollo de Software en **TECSUP**, uno de los mejores institutos del Perú.
-
+Si quieres aprender a programar desde cero, en este repositorio encontrarás todos los laboratorios de los cursos de la carrera con ejercicios resueltos.
 ---
 
 ## **📖 Descripción**
