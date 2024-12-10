@@ -19,4 +19,4 @@ Proceso calcular_hipotenusa
     Escribir 'La hipotenusa es:', c
 FinProceso
 ```
- <img src="./img/01.png" alt="tecsup" width="100%" />
+ <img src="./img/01.png" alt="tecsup" width="250px" />
